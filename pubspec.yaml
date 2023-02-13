@@ -1,0 +1,30 @@
+name: flutter_presentation
+description: Presentation about Flutter implemented using Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <4.0.0"
+
+dependencies:
+  flare_flutter: 
+  flutter:
+    sdk: flutter
+  flutter_card_swipper: 
+  flutter_svg: 
+  image:
+  lint: 
+  vector_math:
+  web_browser: 
+  youtube_player_iframe: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/flare/

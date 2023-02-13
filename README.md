@@ -10,9 +10,6 @@ A presentation about Flutter. Implemented in Flutter. Neat.
 - Some slides contain the actual interactive app samples running on the slide
 - Change slides using keyboard shortcuts (alt/option + arrow keys)
 - Image carousel
-- YouTube video support
-- Webview support
-- Some Easter eggs
 
 ## To-do
 
@@ -26,14 +23,3 @@ You can follow these instructions to build and run the app.
 ### Prerequisites
 
 If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.dev/setup/) guide.
-
-### Building and running the presentation
-
-```
-git clone https://github.com/mkobuolys/flutter-presentation.git
-cd flutter-presentation
-flutter pub get
-flutter run
-```
-
-The `flutter run` command both builds and runs the Flutter app.
